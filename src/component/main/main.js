@@ -87,6 +87,7 @@ class Main extends React.Component {
                 <WingBlank>
                     <Grid data={data} square={false} className="not-square-grid" />
                 </WingBlank>
+                
             </div>
         )
     }
